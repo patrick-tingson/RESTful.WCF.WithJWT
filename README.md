@@ -7,4 +7,4 @@ RESTful WCF with JWT and How to consume/used and validate it using C#.Net
 
 #Content
 - Create JWT and pass it through RESTfulWCF using method POST
-- Validate JWT and echo the request using JSON
+- Validate JWT and echo the Request using JSON as Response
