@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RESTfulWCFwithJWT.RESTfulWCFwithJWT" CodeBehind="RESTfulWCFwithJWT.svc.cs" %>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTfulWCFwithJWT", "RESTfulWCFwithJWT\RESTfulWCFwithJWT.csproj", "{9C7A2A30-50B3-4752-8649-10BB7659B24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosumeRESTfulWCFwithJWT", "CosumeRESTfulWCFwithJWT\CosumeRESTfulWCFwithJWT.csproj", "{FD6D854A-02D3-4FEA-8D8F-CD1B80F7694A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7A2A30-50B3-4752-8649-10BB7659B24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7A2A30-50B3-4752-8649-10BB7659B24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7A2A30-50B3-4752-8649-10BB7659B24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7A2A30-50B3-4752-8649-10BB7659B24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6D854A-02D3-4FEA-8D8F-CD1B80F7694A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6D854A-02D3-4FEA-8D8F-CD1B80F7694A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6D854A-02D3-4FEA-8D8F-CD1B80F7694A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6D854A-02D3-4FEA-8D8F-CD1B80F7694A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
